@@ -9,7 +9,7 @@ Follow these steps to get the project running on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/vigoou/buymed.git
     ```
 2.  **Open in Android Studio:**
     Launch Android Studio and select `Open`, then navigate to the cloned folder.
