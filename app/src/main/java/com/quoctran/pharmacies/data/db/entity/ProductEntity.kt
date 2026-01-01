@@ -33,7 +33,7 @@ data class ProductEntity(
 
     companion object {
         fun mapFromEntityToDomain(product: ProductEntity): Product {
-               return Product(product.id, product.name, product.price, product.imgUrl)
+               return Product(product.id, product.name,  price = product.imgUrl.toLong(), product.imgUrl, quantity =  0, code = product.code, category = product.category, is_prescription = product.is_prescription)
         }
 
     }

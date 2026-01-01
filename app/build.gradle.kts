@@ -53,8 +53,9 @@ dependencies {
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
     implementation(libs.androidx.navigation.compose)
-    implementation(libs.androidx.ma)
-    implementation("androidx.compose.material:material-icons-extended:${compose_version}")
+    implementation(libs.androidx.material.icons.extende)
+
+
     // Hilt - Dependency Injection
     implementation(libs.hilt.android)
     implementation(libs.material3)
