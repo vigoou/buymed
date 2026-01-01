@@ -54,4 +54,4 @@ Given the current scope, the following trade-offs were made:
 ## 📝 Notes
 * **Data Source:** The product list is sourced from the National Pharmaceutical Portal of the Ministry of Health (Vietnam).
     * **Link:** [https://dichvucong.dav.gov.vn/congbothuoc/index](https://dichvucong.dav.gov.vn/congbothuoc/index)
-* **Local Storage:** The application utilizes a Room database for data management. The initial product dataset (containing 200 items) is pre-loaded from the local asset file located at: `assets/buymed.db`.sử dụng data từ Room database, dữ liệu sản phẩm (200 item) nằm trong folder "assets/buymed.db".*
+* **Local Storage:** The application utilizes a Room database for data management. The initial product dataset (containing 200 items) is pre-loaded from the local asset file located at: `assets/buymed.db`.
